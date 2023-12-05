@@ -1,0 +1,6 @@
+- Hi, I’m @GsLighthouse
+- I’m currently a computer science major taking online courses at SNHU
+- I'm still starting out as a programmer, going through the gen eds, and teaching myself python, rust, and c primarily
+- I'm looking to collaborate on amauter projects if anything, as for now I'm relatively inexperienced
+- 📫 How to reach me ...
+-     richard.adler@snhu.edu
